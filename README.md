@@ -14,6 +14,6 @@ My interests lie in **representation learning, large-scale model training, and e
 I aim to work on problems at the intersection of **applied ML, Representation Learning, and ML systems**, and I am actively seeking **research opportunities**. If you’re working on LLMs, ML systems, or applied AI, feel free to reach out.
 
 ### Let’s Connect
-- Email: *anushreebhat2001@gmail.com*
+📧 Email: *anushreebhat2001@gmail.com*
 
 Thanks for stopping by - feel free to explore my repositories!
