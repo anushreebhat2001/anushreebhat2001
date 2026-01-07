@@ -1,8 +1,8 @@
 ## Hi there 👋 I’m Anushree
 
-MS in Computer Science @ **NYU Courant** \
-Machine Learning Engineer | Machine Learning • LLMs • Representation Learning \
-Open to **Summer 2026 MLE / Applied ML Internships**
+- MS in Computer Science @ **NYU Courant** \
+- Machine Learning Engineer | Machine Learning • LLMs • Representation Learning \
+- Open to **Summer 2026 MLE / Applied ML Internships**
 
 ---
 
