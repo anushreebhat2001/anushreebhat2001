@@ -1,7 +1,7 @@
 ## Hi there 👋 I’m Anushree
 
 🎓 MS in Computer Science @ **NYU Courant** \
-🧠 Machine Learning Engineer | Machine Learning • LLMs • Representation Learning \
+🧠 Machine Learning Engineer | Machine Learning • LLMs • Representation Learning
 
 ---
 
