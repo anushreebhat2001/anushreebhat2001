@@ -1,18 +1,16 @@
-## Hi there 👋 I’m Anushree
+# Hi, I'm Anushree 👋
 
-🎓 MS in Computer Science @ **NYU Courant** \
-🧠 Machine Learning Engineer | Machine Learning • LLMs • Representation Learning
+MS CS student at NYU Courant (May 2027). Before NYU I spent two years on SAP's AI team building LLM features for SAP Generative AI Hub. Now I do ML research at NYU and I'm looking for full-time ML and software engineering roles.
 
----
+**Currently**
+- Self-supervised pathology foundation model (hierarchical JEPA) with Prof. Narges Razavian
+- Visual attention in vision-language models with Prof. Grace Lindsay
 
-### About Me
-I am a Machine Learning Engineer and MS Computer Science student at **NYU Courant**.
+**Projects**
+- [adaptive-block-size](https://github.com/anushreebhat2001/adaptive-block-size): learned block-size scheduler for diffusion LLMs; beat AdaBlock by 2.8 points on LLaDA-8B at matched compute
+- [pico-llm](https://github.com/anushreebhat2001/pico-llm): GPT-style language model from scratch vs LSTM and k-gram baselines, with attention and sparse-autoencoder interpretability
+- [Egocentric-Vision](https://github.com/anushreebhat2001/Egocentric-Vision): depth, detection and tracking pipeline on egocentric video
 
-My interests lie in **representation learning, large-scale model training, and evaluation-driven ML systems**, with a focus on how learned representations support **perception, decision-making, and adaptation** in real-world settings. I’m particularly interested in **learning from multimodal data (vision, language, and actions)**, scalable training and inference, and **rigorous evaluation of model behavior**.
+**Tools:** Python · PyTorch · TypeScript · Go · Kubernetes
 
-I aim to work on problems at the intersection of **applied ML, Representation Learning, and ML systems**, and I am actively seeking opportunities to grow. If you’re working on LLMs, ML systems, or applied AI, feel free to reach out.
-
-### Let’s Connect
-📧 Email: *ab13091@nyu.edu*
-
-Thanks for stopping by - feel free to explore my repositories!
+**Reach me:** [Email](mailto:ab13091@nyu.edu) · [LinkedIn](https://www.linkedin.com/in/anushreebhat2001/) · [Portfolio](https://anushreebhat2001.github.io/)
